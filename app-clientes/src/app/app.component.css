@@ -1,0 +1,17 @@
+ul {
+    background-color: #f1f1f1; /* Color de fondo */
+    overflow: hidden;
+  }
+  
+  a {
+    display: inline-block;
+    padding: 1rem 2rem; /* Espaciado 1rem arriba/abajo, 2rem izquierda/derecha */
+    text-decoration: none;
+    color: #1e90ff; /* Color azul */
+  }
+  
+  a.title {
+    font-weight: bold; /* Texto en negrita */
+    font-size: 1.5rem; /* Tamaño de fuente más grande */
+  }
+  
